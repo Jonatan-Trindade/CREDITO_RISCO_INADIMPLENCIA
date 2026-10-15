@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/banner.png" alt="Credit Risk Prediction using Machine Learning" width="100%">
+</p>
+
+
 # 💳 Credit Risk Prediction using Machine Learning
 
 Developed an end-to-end credit risk prediction solution to support loan approval decisions, reducing the estimated default rate through machine learning, SQL data modeling, explainable AI, and business intelligence dashboards.
